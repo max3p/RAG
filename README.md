@@ -1,4 +1,4 @@
-```markdown
+
 # RAG with Ollama and ChromaDB
 
 This project demonstrates a local Retrieval Augmented Generation (RAG) pipeline that processes PDFs, builds a vector database from document chunks, and answers queries using a local language model (LLM) served by Ollama. The system leverages LangChain for document processing, ChromaDB for vector storage, and either AWS Bedrock or Ollama for embeddings.
@@ -144,6 +144,3 @@ You can run tests to validate the response accuracy using the provided test harn
   [https://ollama.com/](https://ollama.com/)
 
 ---
-
-This README outlines the core components and instructions for running your local RAG system with Ollama and ChromaDB. Enjoy exploring and extending the project!
-```
